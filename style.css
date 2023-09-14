@@ -1,0 +1,28 @@
+*{
+    background-color: #88d8b0;
+    font-family: 'Courier New', Courier, monospace; 
+    
+}
+
+#time{
+    font-size: 60px;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+button{
+    font-family: 'Times New Roman', Times, serif;
+   font-size: 30px;
+    padding: 7px 14px;
+    border-radius: 50px;
+    background-color: #ff6f69 ;
+    align-items: center;
+}
+
+.btn-hidden{
+    display : none;
+}
