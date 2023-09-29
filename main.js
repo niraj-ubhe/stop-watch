@@ -71,6 +71,6 @@ function flags(){
 }
 
 startBtn.addEventListener("click", start);
-stopBtn.addEventListener("click", stop)
+stopBtn.addEventListener("click", stop);
 resetBtn.addEventListener("click", reset);
-flagBtn.addEventListener("click", flags)
+flagBtn.addEventListener("click", flags);
